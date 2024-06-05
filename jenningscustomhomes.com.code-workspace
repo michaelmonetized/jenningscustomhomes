@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"supermaven.allowGitignore": true
+	},
+	"extensions": {
+		"recommendations": [
+			"supermaven.supermaven"
+		]
+	}
+}
