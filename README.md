@@ -2,26 +2,26 @@
 
 This is a wordpress website for Jennings Custom Homes.
 
-[ ] Design a new website following a malware infection due to a lack of security on Bluehost
+[x] Design a new website following a malware infection due to a lack of security on Bluehost
 
 ## Next steps
 
-[ ] Look for CSS clean up opportunities
+[x] Look for CSS clean up opportunities
 
-[ ] Optimize WP settings
+[x] Optimize WP settings
 
-[ ] Point cname
+[x] Point cname
 
-[ ] Setup Analytics
+[x] Setup Analytics
 
-[ ] Setup rankmath
+[x] Setup rankmath
 
-[ ] Connect socials
+[x] Connect socials
 
-[ ] Setup trustindex reviews
+[-] Setup trustindex reviews // client does not have any reviews
 
-[ ] Setup + test form actions
+[x] Setup + test form actions
 
-[ ] Optimize SPF
+[x] Optimize SPF
 
-[ ] Send login details
+[-] Send login details
